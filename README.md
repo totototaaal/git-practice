@@ -1,3 +1,1 @@
-# Git Practice
-
-## Added about section
+# Conflict Test
